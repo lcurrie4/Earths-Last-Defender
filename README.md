@@ -11,4 +11,7 @@ Earth's Last Defender is an adrenaline-pumping bullet hell/manic shooter game wh
 
 ## Installation
 To play Earth's Last Defender, follow these steps:
-1. Download .xyz file
+1. Install GameMaker
+2. Download .yyz file
+3. Save as project
+4. Run .yyz file via GameMaker engine
